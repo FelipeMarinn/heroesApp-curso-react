@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/heroesApp-curso-react/static/js/main.958f0f4b.chunk.js",
+    "main.js.map": "/heroesApp-curso-react/static/js/main.958f0f4b.chunk.js.map",
+    "runtime-main.js": "/heroesApp-curso-react/static/js/runtime-main.da041003.js",
+    "runtime-main.js.map": "/heroesApp-curso-react/static/js/runtime-main.da041003.js.map",
+    "static/js/2.e44b97df.chunk.js": "/heroesApp-curso-react/static/js/2.e44b97df.chunk.js",
+    "static/js/2.e44b97df.chunk.js.map": "/heroesApp-curso-react/static/js/2.e44b97df.chunk.js.map",
+    "index.html": "/heroesApp-curso-react/index.html",
+    "static/js/2.e44b97df.chunk.js.LICENSE.txt": "/heroesApp-curso-react/static/js/2.e44b97df.chunk.js.LICENSE.txt",
+    "static/media/dc-arrow.jpg": "/heroesApp-curso-react/static/media/dc-arrow.15b27bc2.jpg",
+    "static/media/dc-batman.jpg": "/heroesApp-curso-react/static/media/dc-batman.ab9eadc3.jpg",
+    "static/media/dc-black.jpg": "/heroesApp-curso-react/static/media/dc-black.3747c663.jpg",
+    "static/media/dc-blue.jpg": "/heroesApp-curso-react/static/media/dc-blue.cc8169a3.jpg",
+    "static/media/dc-flash.jpg": "/heroesApp-curso-react/static/media/dc-flash.b3922f25.jpg",
+    "static/media/dc-green.jpg": "/heroesApp-curso-react/static/media/dc-green.01c54ee1.jpg",
+    "static/media/dc-martian.jpg": "/heroesApp-curso-react/static/media/dc-martian.78565f7d.jpg",
+    "static/media/dc-robin.jpg": "/heroesApp-curso-react/static/media/dc-robin.ea4afe99.jpg",
+    "static/media/dc-superman.jpg": "/heroesApp-curso-react/static/media/dc-superman.e9391474.jpg",
+    "static/media/dc-wonder.jpg": "/heroesApp-curso-react/static/media/dc-wonder.970ba2d6.jpg",
+    "static/media/marvel-captain.jpg": "/heroesApp-curso-react/static/media/marvel-captain.d2c7774d.jpg",
+    "static/media/marvel-cyclops.jpg": "/heroesApp-curso-react/static/media/marvel-cyclops.f1442408.jpg",
+    "static/media/marvel-daredevil.jpg": "/heroesApp-curso-react/static/media/marvel-daredevil.2f4f1a57.jpg",
+    "static/media/marvel-hawkeye.jpg": "/heroesApp-curso-react/static/media/marvel-hawkeye.1f78e874.jpg",
+    "static/media/marvel-hulk.jpg": "/heroesApp-curso-react/static/media/marvel-hulk.d1af5fe5.jpg",
+    "static/media/marvel-iron.jpg": "/heroesApp-curso-react/static/media/marvel-iron.b394df11.jpg",
+    "static/media/marvel-silver.jpg": "/heroesApp-curso-react/static/media/marvel-silver.1d43a08b.jpg",
+    "static/media/marvel-spider.jpg": "/heroesApp-curso-react/static/media/marvel-spider.054016b4.jpg",
+    "static/media/marvel-thor.jpg": "/heroesApp-curso-react/static/media/marvel-thor.c63e651c.jpg",
+    "static/media/marvel-wolverine.jpg": "/heroesApp-curso-react/static/media/marvel-wolverine.ee676488.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da041003.js",
+    "static/js/2.e44b97df.chunk.js",
+    "static/js/main.958f0f4b.chunk.js"
+  ]
+}
