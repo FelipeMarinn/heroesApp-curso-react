@@ -47,7 +47,8 @@ export const SearchScreen = ({ history }) => {
                     </form>
                     <button
                        type='submit'
-                       className='btn mt-2 col-12 btn-outline-primary'>
+                       className='btn mt-2 col-12 btn-outline-primary'
+                       onClick={ handleSearch }>
                         Search
                     </button>
                 </div>
